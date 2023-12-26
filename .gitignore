@@ -1,0 +1,4 @@
+.cache
+.ccls
+.ccls-cache
+compile_commands.json

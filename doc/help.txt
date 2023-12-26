@@ -1,0 +1,32 @@
+help.txt                For e34 version 0.1.        Last change: 2023
+
+                        e34 - main help file
+
+Basic:
+
+:[q]uit<Enter>                  Close this window.
+:[h]elp<Enter>                  Get help.
+:[cl]ear<Enter>                 Clear workarea.
+:intro<Enter>                   e34's startscreen.
+
+==============================================================================
+Connection:
+
+:[c]onnect {mode}<Enter>        Connect to the mode {mode}.
+:[disc]onnect<Enter>            Return to the 'normal' mode.
+
+Modes: normal, game, test, battle.
+
+==============================================================================
+Colorschemes:
+
+:colo[rscheme] {name}<Enter>    Load color scheme {name}.
+
+Schemes: default, gruvbox_dark_medium, gruvbox_light_medium.
+
+==============================================================================
+Startscreens:
+
+:[sta]rtscreen {name}<Enter>    Load start screen {name}.
+
+Screens: starwars, tron.
