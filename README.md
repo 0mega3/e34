@@ -5,6 +5,10 @@ e34
 
 Vim-like UI engine.
 
+<img
+src="https://gitflic.ru/project/0mega3/e34/blob/raw?file=doc%2Finternal%2Fdemo%2Fe34demo.gif"
+style="height:900px;">
+
 Prerequisites
 -------------
 
