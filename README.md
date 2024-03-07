@@ -9,6 +9,10 @@ Vim-like UI engine.
 src="https://gitflic.ru/project/0mega3/e34/blob/raw?file=doc%2Finternal%2Fdemo%2Fe34demo.gif"
 style="height:900px;">
 
+<img
+src="https://gitflic.ru/project/0mega3/e34/blob/raw?file=doc%2Finternal%2Fdemo%2Fe34demo_android12.gif"
+style="height:300px;">
+
 Prerequisites
 -------------
 
